@@ -1,0 +1,1 @@
+[http://58.211.82.57:7990/scm/sdk/media_sdk_script.git:dfd8e2f90dfe83d1158b85c290a183e8dbef63b8, http://58.211.82.57:7990/scm/sdk/media_engine2.git:521b561d4f944198fcc76f5154d414ed52845e82, http://58.211.82.57:7990/scm/sdk/media_sdk3.git:09cc5f265a972c5caf5fad6bee4e6eb86af9c56b, http://58.211.82.57:7990/scm/sdk/media_sdk3_private.git:837d3ac9a57cafd60d4ce699b291a40454516f47]
